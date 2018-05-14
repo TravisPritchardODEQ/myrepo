@@ -5,3 +5,11 @@
 .rej
 test script.R.rej
 .gitignore.rej
+test script_BACKUP_128.R
+test script_BACKUP_4864.R
+test script_BASE_128.R
+test script_BASE_4864.R
+test script_LOCAL_128.R
+test script_LOCAL_4864.R
+test script_REMOTE_128.R
+test script_REMOTE_4864.R
